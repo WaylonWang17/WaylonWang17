@@ -2,14 +2,15 @@
   <h2>Hey there 👋, I'm Waylon!</h2>
 </div>
 
-💻 **Computer Science Student @ UAlberta**  
-🚀 Building...
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=00FF7F&center=true&vCenter=true&width=440&lines=Building+.+.+.;Go+%7C+Python+%7C+Java+%7C+C+%7JavaScript" />
+</p>
 
 ---
 
 ### 🙏 About Me 
 
-- 🎓 3rd-year Computer Science student (Specialization in AI)  
+- 🎓 3rd-year Computer Science Student @ UAlberta (Specialization in AI)  
 - 💼 Prev SWE Intern @ Veza  
 
 ---
@@ -25,6 +26,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=waylonwang17&show_icons=true&theme=tokyonight" />
 </p>
+
 ---
 
 ### 📬 Connect with me
@@ -38,3 +40,4 @@
     <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Gmail" />
   </a>
 </p>
+
