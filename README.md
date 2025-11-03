@@ -30,12 +30,12 @@ Here are some ideas to get you started:
 <p align="left">
   <img src="https://skillicons.dev/icons?i=go,python,c,java,js,ts,aws,docker,postgresql,mysql,kubernetes,git,grafana,linux,html,css,r,githubactions,gcp,sqlite,mongodb,figma" />
 </p>
-<!--
+
+---
 
 ### 📊 GitHub Stats  
 ![](https://github-readme-stats.vercel.app/api?username=waylonwang17&show_icons=true&theme=tokyonight)  
 
--->
 ---
 
 ### 📬 Connect with me
