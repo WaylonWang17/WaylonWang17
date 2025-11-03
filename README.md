@@ -55,13 +55,9 @@
   <a href="https://www.linkedin.com/in/waylon-wang/" target="_blank">
     <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" height="42" style="vertical-align:middle; margin-right:10px;" alt="Follow Waylon Wang on LinkedIn" title="Follow Waylon Wang on LinkedIn"/>
   </a>
-  <a href="mailto:waylon.wang17@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" 
-         height="42" 
-         style="vertical-align:middle;" 
-         alt="Gmail" 
-         title="Email Waylon Wang"/>
-  </a>
+<a href="https://mail.google.com/mail/?view=cm&to=waylon.wang17@gmail.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gmail" height="42" style="vertical-align:middle;" alt="Gmail" title="Email Waylon Wang"/>
+</a>
 
 </p>
 
