@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 💻 **Computer Science Student @ UAlberta**  
 🚀 Building intelligent, scalable systems and exploring DevOps, Go, and Machine Learning.  
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kyechan99/capsule-render/master/dist/capsule_render.svg?text=Connect%20with%20Me&fontColor=fff&type=wave&color=gradient&height=100&section=header&reversal=false" width="100%"/>
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/waylonwang17/waylonwang17/main/assets/neon-bar.gif" width="100%" height="4px"/>
+</div>
 
 ### 🧩 About Me  
 - 🎓 3rd-year Computer Science student (Specialization in AI)  
