@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 ### 📊 GitHub Stats  
 ![](https://github-readme-stats.vercel.app/api?username=waylonwang17&show_icons=true&theme=tokyonight)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=waylonwang17&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waylonwang17&layout=compact&hide=html,css,scss,makefile,cmake&langs_count=6)
 
 ---
 
