@@ -1,10 +1,11 @@
 <div align="center">
   <h2>Hey there 👋, I'm Waylon!</h2>
-  💻 <b>Computer Science Student @ UAlberta</b>  
-  🚀 Building...
 </div>
 
 ---
+
+  💻 Computer Science Student @ UAlberta</b>  
+  🚀 Building...
 
 ### 🧩 About Me  
 - 🎓 3rd-year Computer Science student (Specialization in AI)  
