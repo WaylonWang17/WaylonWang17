@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 💻 **Computer Science Student @ UAlberta**  
 🚀 Building intelligent, scalable systems and exploring DevOps, Go, and Machine Learning.  
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWR0em1maTIwemdycWJiMXJlb3ZmeWtwZWY2NjJsOHVxcnc4Zng5diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TIj8cbzWYKnE9ul3ab/giphy.gif" width="100%">
+<img src="[https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWR0em1maTIwemdycWJiMXJlb3ZmeWtwZWY2NjJsOHVxcnc4Zng5diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TIj8cbzWYKnE9ul3ab/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXZ4b3dvOXNsNnl0dzB4YnltajF1anI0MmN5bHgyaGM2NXRmb2xsdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/BrS33f5cwKDgn8UJV8/giphy.gif)" width="100%">
 
 ### 🧩 About Me  
 - 🎓 3rd-year Computer Science student (Specialization in AI)  
