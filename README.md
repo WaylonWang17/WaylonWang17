@@ -1,5 +1,7 @@
 <div align="center">
   <h2>Hey there 👋, I'm Waylon!</h2>
+  💻 <b>Computer Science Student @ UAlberta</b>  
+  🚀 Building...
 </div>
 <!--
 **WaylonWang17/WaylonWang17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,14 +18,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-💻 **Computer Science Student @ UAlberta**  
-🚀 Building...
-
 ---
 
 ### 🧩 About Me  
 - 🎓 3rd-year Computer Science student (Specialization in AI)  
-- 💼 Prev-Software Engineering Intern @ Veza  
+- 💼 Prev SWE Intern @ Veza  
 
 ---
 
