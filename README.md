@@ -7,7 +7,8 @@
 
 ---
 
-### 🧩 About Me  
+### 🙏 About Me 
+
 - 🎓 3rd-year Computer Science student (Specialization in AI)  
 - 💼 Prev SWE Intern @ Veza  
 
