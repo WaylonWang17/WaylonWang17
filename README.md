@@ -1,6 +1,6 @@
 
 <div align="center">
-  ## Hey there 👋, I'm Waylon!
+  <h2>Hey there 👋, I'm Waylon!</h2>
 </div>
 <!--
 **WaylonWang17/WaylonWang17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
