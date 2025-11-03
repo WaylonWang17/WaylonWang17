@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 💻 **Computer Science Student @ UAlberta**  
 🚀 Building intelligent, scalable systems and exploring DevOps, Go, and Machine Learning.  
 
-<img src="https://i.gifer.com/origin/9d/9de874c6534f6aebde173d4ce4d1a86f_w200.gif" width="100%">
-
+---
 
 ### 🧩 About Me  
 - 🎓 3rd-year Computer Science student (Specialization in AI)  
@@ -30,7 +29,7 @@ Here are some ideas to get you started:
 
 ### 🛠️ Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=go,python,c,java,js,ts,aws,docker,postgresql,mysql,kubernetes,git,grafana,linux,html,css,r,githubactions,gcp,sqlite,mongodb" />
+  <img src="https://skillicons.dev/icons?i=go,python,c,java,js,ts,aws,docker,postgresql,mysql,kubernetes,git,grafana,linux,html,css,r,githubactions,gcp,sqlite,mongodb,figma" />
 </p>
 
 ---
