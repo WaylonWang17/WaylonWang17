@@ -1,6 +1,5 @@
-markdown
 
-<div alig="center">
+<div align="center">
   ## Hey there 👋, I'm Waylon!
 </div>
 <!--
