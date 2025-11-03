@@ -1,5 +1,8 @@
-## Hey there 👋, I'm Waylon!
+markdown
 
+<div alig="center">
+  ## Hey there 👋, I'm Waylon!
+</div>
 <!--
 **WaylonWang17/WaylonWang17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -34,8 +37,9 @@ Here are some ideas to get you started:
 ---
 
 ### 📊 GitHub Stats  
-![](https://github-readme-stats.vercel.app/api?username=waylonwang17&show_icons=true&theme=tokyonight)  
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=waylonwang17&show_icons=true&theme=tokyonight" />
+</p>
 ---
 
 ### 📬 Connect with me
