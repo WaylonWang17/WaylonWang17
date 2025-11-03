@@ -30,10 +30,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/waylonwang17" target="_blank">
-    <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/linkedin.gif" width="60" height="60" alt="LinkedIn"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:waylonwang17@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/gmail.gif" width="60" height="60" alt="Gmail"/>
+  <a href="mailto:waylonwang17@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Gmail" />
   </a>
 </p>
