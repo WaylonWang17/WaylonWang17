@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=00FF7F&center=true&vCenter=true&width=440&lines=Building+.+.+.;Go+%7C+Python+%7C+Java+%7C+C+JavaScript" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=00FF7F&center=true&vCenter=true&width=440&lines=Building+.+.+.;Go+%7C+Python+%7C+Java+%7C+JavaScript+%7C+C" />
 </p>
 
 ---
@@ -11,7 +11,17 @@
 ### 🙏 About Me 
 
 - 🎓 3rd-year Computer Science Student @ UAlberta (Specialization in AI)  
-- 💼 Prev SWE Intern @ Veza  
+- 💼 Prev SWE Intern @ 
+  <a href="https://www.linkedin.com/company/veza" target="_blank" style="text-decoration:none;">
+    <strong>Veza</strong>
+    <img 
+      src="https://media.licdn.com/dms/image/v2/D4E0BAQFR0JuObaiAqw/company-logo_200_200/company-logo_200_200/0/1706890659739/veza_logo?e=1763596800&v=beta&t=S-UyzWOxM_U3sE5GAMWQc5jcdkYykxUaZ2Mpl3ayndY" 
+      height="20" 
+      style="vertical-align:middle; margin-left:6px;" 
+      alt="Veza Logo" 
+      title="Veza"/>
+  </a>
+
 
 ---
 
@@ -32,12 +42,11 @@
 ### 📬 Connect with me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/waylonwang17" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/waylon-wang/" target="_blank">
+    <img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="42em" style="vertical-align:middle; margin-right:10px;" alt="Follow Waylon Wang on LinkedIn" title="Follow Waylon Wang on LinkedIn"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="mailto:waylonwang17@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="42em" style="vertical-align:middle;" alt="Gmail" title="Email Waylon Wang"/>
   </a>
 </p>
 
