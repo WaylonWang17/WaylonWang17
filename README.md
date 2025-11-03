@@ -39,6 +39,14 @@ Here are some ideas to get you started:
 
 ---
 
-### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/waylon-wang)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:waylon.wang17@gmail.com)
+### 📬 Connect with me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/waylonwang17" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:waylonwang17@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" />
+  </a>
+</p>
