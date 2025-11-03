@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 💻 **Computer Science Student @ UAlberta**  
-🚀 Building intelligent, scalable systems and exploring DevOps, Go, and Machine Learning.  
+🚀 Building...
 
 ---
 
