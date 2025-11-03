@@ -28,7 +28,7 @@
 
 ### 📬 Connect with me
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/waylonwang17" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn" />
   </a>
