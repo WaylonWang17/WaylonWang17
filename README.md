@@ -2,7 +2,7 @@
   <h2>Hey there 👋, I'm Waylon!</h2>
 </div>
 
-💻 Computer Science Student @ UAlberta
+💻 **Computer Science Student @ UAlberta**  
 🚀 Building...
 
 ---
