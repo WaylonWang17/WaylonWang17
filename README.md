@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 💻 **Computer Science Student @ UAlberta**  
 🚀 Building intelligent, scalable systems and exploring DevOps, Go, and Machine Learning.  
 
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<img src="https://i.gifer.com/origin/9d/9de874c6534f6aebde173d4ce4d1a86f_w200.gif" width="100%">
 
 
 ### 🧩 About Me  
