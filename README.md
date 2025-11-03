@@ -30,6 +30,8 @@ Here are some ideas to get you started:
 ### 🛠️ Tech Stack
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,go,c,java,js,ts,aws,docker,postgresql,mysql,kubernetes,git,grafana,yaml,linux,html,css,locust,r,githubactions,gcp,sqlite,mongodb" />
+  <img width="2121" height="490" alt="image" src="https://github.com/user-attachments/assets/d6e87981-cd18-4fe6-8e40-bd0fc3834b6a" />
+
 </p>
 
 ---
