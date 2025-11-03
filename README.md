@@ -29,9 +29,7 @@ Here are some ideas to get you started:
 
 ### 🛠️ Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=go,python,c,java,js,ts,aws,docker,postgresql,mysql,kubernetes,git,grafana,yaml,linux,html,css,locust,r,githubactions,gcp,sqlite,mongodb" />
-  <img src="https://img.shields.io/badge/YAML-ffffff?style=for-the-badge&logo=yaml&logoColor=cb171e" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=go,python,c,java,js,ts,aws,docker,postgresql,mysql,kubernetes,git,grafana,linux,html,css,r,githubactions,gcp,sqlite,mongodb" />
 </p>
 
 ---
