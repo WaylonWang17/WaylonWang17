@@ -21,7 +21,7 @@
   <a href="https://www.linkedin.com/company/veza" target="_blank" style="text-decoration:none;">
     <strong>Veza</strong>
     <img 
-      src="https://media.licdn.com/dms/image/v2/D4E0BAQFR0JuObaiAqw/company-logo_200_200/company-logo_200_200/0/1706890659739/veza_logo?e=1763596800&v=beta&t=S-UyzWOxM_U3sE5GAMWQc5jcdkYykxUaZ2Mpl3ayndY" 
+      src="https://media.licdn.com/dms/image/v2/D4E0BAQFR0JuObaiAqw/company-logo_200_200/company-logo_200_200/0/1706890659739/veza_logo?e=1765411200&v=beta&t=w8yLS-tnZ6pVrxNJ9pfijzhSCcCyjyzeEPTcD1XiuPM"
       height="20" 
       style="vertical-align:middle; margin-left:6px;" 
       alt="Veza Logo" 
