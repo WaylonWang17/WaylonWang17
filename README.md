@@ -31,7 +31,7 @@
 </h3>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=go,python,c,java,js,ts,aws,docker,postgresql,mysql,kubernetes,git,grafana,linux,html,css,r,githubactions,gcp,sqlite,mongodb,figma" />
+  <img src="https://skillicons.dev/icons?i=go,python,c,java,js,ts,aws,docker,postgresql,mysql,kubernetes,git,grafana,linux,html,css,r,githubactions,gcp,sqlite,mongodb,figma,android" />
 </p>
 
 ---
