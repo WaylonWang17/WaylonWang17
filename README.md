@@ -46,7 +46,7 @@
 ### 📬 Connect with me 
 
 <p align="left">
-  <a href="[https://www.linkedin.com/in/waylon-wang/](https://www.linkedin.com/in/waylonw/)" target="_blank">
+  <a href="https://www.linkedin.com/in/waylonw/" target="_blank">
     <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" height="42" style="vertical-align:middle; margin-right:10px;" alt="Follow Waylon Wang on LinkedIn" title="Follow Waylon Wang on LinkedIn"/>
   </a>
 <a href="https://mail.google.com/mail/?view=cm&to=waylon.wang17@gmail.com" target="_blank">
