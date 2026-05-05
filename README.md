@@ -17,7 +17,7 @@
 ### 🙏 About Me 
 
 - 🎓 3rd-year Computer Science Student @ UAlberta (Specialization in AI)  
-- 💼 Prev SWE Intern @ 
+- 💼 SWE Intern @ <a href="https://www.linkedin.com/company/autodesk"> <strong>Autodesk</strong> </a> Prev SWE Intern @ 
   <a href="https://www.linkedin.com/company/veza" target="_blank" style="text-decoration:none;">
     <strong>Veza</strong>
   </a>
