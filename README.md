@@ -33,7 +33,7 @@
 </h3>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=go,python,c,java,js,ts,aws,docker,postgresql,mysql,kubernetes,git,grafana,linux,html,css,r,githubactions,gcp,sqlite,mongodb,figma,django,supabase,firebase,jenkins" />
+  <img src="https://skillicons.dev/icons?i=go,python,c,java,js,ts,aws,docker,postgresql,mysql,kubernetes,git,grafana,linux,html,css,r,githubactions,gcp,sqlite,mongodb,figma,django,supabase,firebase,jenkins,fastapi" />
 </p>
 
 ---
