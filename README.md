@@ -36,12 +36,6 @@
   <img src="https://skillicons.dev/icons?i=go,python,c,java,js,ts,aws,docker,postgresql,mysql,kubernetes,git,grafana,linux,html,css,r,githubactions,gcp,sqlite,mongodb,figma,django,supabase,firebase,jenkins,fastapi" />
 </p>
 
----
-
-### 📊 GitHub Stats 
-<p align="center">
-  <img src="https://github-readme-stats-five-tau-31.vercel.app/api?username=WaylonWang17&show_icons=true&theme=tokyonight" alt="Github stats not available :(" />
-</p>
 
 ---
 
